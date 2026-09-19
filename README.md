@@ -1,4 +1,4 @@
-# Real-Time Face Detection System
+# Face Detection and Tracking System
 
 A computer vision application using OpenCV's Haar Feature-based Cascade Classifiers to detect and track human faces via live webcam feed.
 
